@@ -15,4 +15,3 @@ I build AI platforms that help teams ship safely at scale — with evaluation, g
 
 ### Connect
 - LinkedIn: [(link)](http://www.linkedin.com/in/khaled-ahmed-can)
-- 
